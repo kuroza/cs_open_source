@@ -6,9 +6,17 @@ All links are provided free online. It will help your studies. Inshaa Allah.
 
 Courses | School | Type | Notes
 :-- | :--: | :--: | :--:
-[CS50 Introduction to Programming](https://www.youtube.com/playlist?list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH) | Harvard | Video | Lectures taught in C language
+[CS50's Introduction to Programming](https://www.youtube.com/playlist?list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH) | Harvard | Video | Lectures taught in C language
+[Getting Started with Python](https://www.coursera.org/learn/python?specialization=python) | Michigan | Video | 
 [Python Tutorials](https://www.youtube.com/playlist?list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg) | CS Dojo | Video | 
 [Java Essentials](https://www.youtube.com/playlist?list=PLWPirh4EWFpErPIVe3nIAet9TDxx1pBcd) | Tutorials Point | Video | 
+
+### Advanced Programming
+
+Courses | School | Type | Notes
+:-- | :--: | :--: | :--:
+[Getting Started with Go](https://www.coursera.org/learn/golang-getting-started) | UCI | Video | 
+[Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers) | JetBrains | Video | 
 
 ## SS-1204 Computer Architecture
 
@@ -25,15 +33,21 @@ Courses | School | Type | Notes
 [PHP](https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-) | Mmtuts | Video | 
 [SQL](https://www.youtube.com/watch?v=LxDetsPQAPQ&index=10&t=2372s&list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH) | Harvard | Video | 
 [Gestalt Principles](http://graphicdesign.spokanefalls.edu/tutorials/process/gestaltprinciples/gestaltprinc.htm) | - | Website | 
+
+### Advanced Internet Programming and Development
+
+Courses | School | Type | Notes
+:-- | :--: | :--: | :--:
 [AJAX](https://www.youtube.com/playlist?list=PL0eyrZgxdwhyeIDc3EA4XGsI9HoWLc6nF) | Mmtuts | Video | 
 [jQuery](https://www.youtube.com/playlist?list=PL0eyrZgxdwhy7byLHsVkuhtRV_IpoJU7n) | Mmtuts | Video | 
 [Bootstrap](https://www.youtube.com/playlist?list=PL0eyrZgxdwhx2XiwAfPLTTnEPcUGrPGH-) | Mmtuts | Video | 
+[JavaScript, jQuery, and JSON](https://www.coursera.org/learn/javascript-jquery-json/) | Michigan | Video | 
 
 ## SS-2202 Algorithms & Data Structures
 
 Courses | School | Type | Notes
 :-- | :--: | :--: | :--:
-[Data Structures](https://www.coursera.org/learn/data-structures/home/welcome) | San Diego | Video | 
+[Data Structures](https://www.coursera.org/learn/data-structures/) | San Diego | Video | 
 [Algorithms I](https://www.coursera.org/learn/algorithms-part1/) | Princeton | Video | 
 [Algorithms II](https://www.coursera.org/learn/algorithms-part2) | Princeton | Video | 
 
@@ -51,7 +65,7 @@ Courses | School | Type | Notes
 Courses | School | Type | Notes
 :-- | :--: | :--: | :--:
 [Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z) | Stanford | Video | 
-[The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking/home/welcome) | Google | Video | 
+[The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking/) | Google | Video | 
 
 ## SS-2206 Operating Systems
 
@@ -86,7 +100,7 @@ Courses | School | Type | Notes
 :-- | :--: | :--: | :--:
 [Discrete Mathematics](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS) | Trefor Bazett | Video | 
 [Discrete Maths Quick Guide](https://www.tutorialspoint.com/discrete_mathematics/discrete_mathematics_quick_guide.htm) | Tutorials Point | Website | A website guide
-
+[Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof/) | San Diego | Video | 
 
 ## Mobile App Development
 
@@ -105,7 +119,7 @@ Courses | School | Type | Notes
 
 Courses | School | Type | Notes
 :-- | :--: | :--: | :--:
-[Introduction to Cyber Attacks](https://www.coursera.org/learn/intro-cyber-attacks/home/welcome) | NYU | Video | 
+[Introduction to Cyber Attacks](https://www.coursera.org/learn/intro-cyber-attacks/) | NYU | Video | 
 [Penetration Testing & Ethical Hacking](https://www.cybrary.it/course/ethical-hacking/) | Cybrary | Video | 
 [Web Application Penetration Testing](https://www.youtube.com/playlist?list=PLWPirh4EWFpESKWJmrgQwmsnTrL_K93Wi) | Tutorials Point | Video | 
 [Android Penetration Testing - Tutorials Point](https://www.youtube.com/playlist?list=PLWPirh4EWFpEK7BXbMvKDYuHhA4AiYLDb) | Tutorials Point | Video | 
@@ -114,7 +128,7 @@ Courses | School | Type | Notes
 
 Courses | School | Type | Notes
 :-- | :--: | :--: | :--:
-[Cryptography I](https://www.coursera.org/learn/crypto/home/welcome) | Stanford | Video | 
+[Cryptography I](https://www.coursera.org/learn/crypto/) | Stanford | Video | 
 [Cryptography II](https://www.coursera.org/learn/crypto2) | Stanford | Video | 
 
 ## Game Development
@@ -127,5 +141,5 @@ Courses | School | Type | Notes
 
 Courses | School | Type | Notes
 :-- | :--: | :--: | :--:
-[Blockchain Basics](https://www.coursera.org/learn/blockchain-basics/home/welcome) | Buffalo | Video | 
-[Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency/home/welcome) | Princeton | Video | 
+[Blockchain Basics](https://www.coursera.org/learn/blockchain-basics/) | Buffalo | Video | 
+[Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency/) | Princeton | Video | 
