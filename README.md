@@ -2,6 +2,18 @@
 
 All links are provided free online. It will help your studies. Inshaa Allah.
 
+## SS-1203 Programming Fundamentals
+
+Courses | School | Type | Notes
+:-- | :--: | :--: | :--:
+[CS50](https://www.youtube.com/playlist?list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH) | Harvard | Video | Lectures taught in C language
+
+## SS-1204 Computer Architecture
+
+Courses | School | Type | Notes
+:-- | :--: | :--: | :--:
+[Digital Electronics](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm) | Neso Academy | Video | 
+
 ## SS-2201 Internet Programming and Development
 
 Courses | School | Type | Notes
@@ -12,27 +24,34 @@ Courses | School | Type | Notes
 [SQL](https://www.youtube.com/watch?v=LxDetsPQAPQ&index=10&t=2372s&list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH) | Harvard | Video | 
 [Gestalt Principles](http://graphicdesign.spokanefalls.edu/tutorials/process/gestaltprinciples/gestaltprinc.htm) | - | Website | 
 
+## SS-2202 Algorithms & Data Structures
+
+Courses | School | Type | Notes
+:-- | :--: | :--: | :--:
+[Data Structures](https://www.coursera.org/learn/data-structures/home/welcome) | San Diego | Video | 
+[Algorithms](https://www.coursera.org/learn/algorithms-part1/) | Princeton | Video | 
+
 ## SS-2203 Database Design
 
 Courses | School | Type | Notes
 :-- | :--: | :--: | :--:
-[DBMS](https://www.youtube.com/playlist?list=PLWPirh4EWFpHMw9bRo47tn4aknBUvuXNU) | Tutorials Point | Video |
-[EER Diagram](https://www.youtube.com/watch?v=TWcsLkq0snI&t=0s&list=PLW1OMpQZxu7yzSiLA3HQRlyOYE99PsW2L&index=5) | YouTube | Video | 
-[Relational Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/course/) | Stanford | Video | 
+[DBMS](https://www.youtube.com/playlist?list=PLWPirh4EWFpHMw9bRo47tn4aknBUvuXNU) | Tutorials Point | Video | 
+[EER Diagram](https://www.youtube.com/watch?v=TWcsLkq0snI&t=0s&list=PLW1OMpQZxu7yzSiLA3HQRlyOYE99PsW2L&index=5) | YouTube | Video | A brief video explaining of EER diagram
+[Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/course/) | Stanford | Video | Mostly relational databases
 [Databases](https://www.youtube.com/channel/UCjkGzGfgvX_Zd8kxs4ldhFw/videos) | Penn State | Video | 
 
 ## SS-2205 Computer Networks
 
 Courses | School | Type | Notes
 :-- | :--: | :--: | :--:
-[Computer Networks](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z) | Stanford | Video | 
+[Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z) | Stanford | Video | 
 [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking/home/welcome) | Google | Video | 
 
 ## SS-2206 Operating Systems
 
 Courses | School | Type | Notes
 :-- | :--: | :--: | :--:
-[Operating Systems - Neso](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O) | Neso Academy | Video | Based on Silberschatz book, same syllabus as UBD
+[Operating Systems - Neso](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O) | Neso Academy | Video | Based on Silberschatz book (same syllabus as UBD)
 [Operating Systems - ops-class.org](https://www.ops-class.org/slides/) | Buffalo | Video | Based on Tannenbaum book
 [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) | - | Website | A website book
 
@@ -61,9 +80,4 @@ Courses | School | Type | Notes
 [Discrete Mathematics](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS) | Trefor Bazett | Video | 
 [Discrete Maths Quick Guide](https://www.tutorialspoint.com/discrete_mathematics/discrete_mathematics_quick_guide.htm) | Tutorials Point | Website | A website guide
 
-## SS-2202 Algorithms & Data Structures
 
-Courses | School | Type | Notes
-:-- | :--: | :--: | :--:
-[Data Structures](https://www.coursera.org/learn/data-structures/home/welcome) | San Diego | Video | 
-[Algorithms](https://www.coursera.org/learn/algorithms-part1/) | Princeton | Video | 
