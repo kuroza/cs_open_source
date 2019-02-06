@@ -1,6 +1,6 @@
 # Computer Science Online Resources by Harith
 
-All links are provided free online. It will help your studies. Inshaa Allah.
+All links are provided for free online. It will help your studies. Inshaa Allah.
 
 ## SS-1203 Programming Fundamentals
 
