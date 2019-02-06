@@ -97,7 +97,7 @@ Exercise | Details
 ### Lab04 assignment:
 Exercise | Details
 :-- | :--:
-Ex 1 | My cat
+[Ex 1](https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/) | Use this webpage to understand ex1
 Ex 2 | My cp
 Ex 3 | Highlander
 Ex 4 | Highlander II
