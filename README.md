@@ -10,7 +10,7 @@ Courses | School | Notes
 [Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming) | Duke University | Basic syntax
 [Java Programming: Arrays, Lists, and Structured Data](https://www.coursera.org/learn/java-programming-arrays-lists-data) | Duke University | Arrays and collections
 [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java) | Duke University | Object oriented programming
-[Java Files and I/O](https://www.tutorialspoint.com/java/java_files_io.htm) | Duke University | File I/O
+[Java Files and I/O](https://www.tutorialspoint.com/java/java_files_io.htm) | Tutorials Point | File I/O
 
 ### Programming Languages
 
