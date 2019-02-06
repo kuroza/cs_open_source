@@ -7,11 +7,10 @@ All links are provided for free online. It will help your studies. Inshaa Allah.
 Courses | School | Notes
 :-- | :--: | :--:
 [CS50's Introduction to Programming](https://www.youtube.com/playlist?list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH) | Harvard University | Lectures taught in C language
-[Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming) | Duke University | 
-[]() |  | Object Oriented Programming
-[]() |  | Arrays and Collections
-[]() |  | File I/O
-[]() |  | Searching and Sorting
+[Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming) | Duke University | Basic syntax
+[Java Programming: Arrays, Lists, and Structured Data](https://www.coursera.org/learn/java-programming-arrays-lists-data) | Duke University | Arrays and collections
+[Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java) | Duke University | Object oriented programming
+[Java Files and I/O](https://www.tutorialspoint.com/java/java_files_io.htm) | Duke University | File I/O
 
 ### Programming Languages
 
