@@ -97,8 +97,8 @@ Exercise | Details
 ### Lab04 assignment:
 Exercise | Details
 :-- | :--:
-[Ex 1(a)](https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/), [Ex1(b)](https://www.ibm.com/developerworks/community/blogs/58e72888-6340-46ac-b488-d31aa4058e9c/entry/understanding_linux_open_system_call?lang=en) | Use these webpages to understand ex1
-Ex 2 | My cp
+[Ex 1(a)](https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/), [Ex1(b)](https://www.ibm.com/developerworks/community/blogs/58e72888-6340-46ac-b488-d31aa4058e9c/entry/understanding_linux_open_system_call?lang=en) | open(), read() & write()
+[Ex 2](https://www.ibm.com/developerworks/community/blogs/58e72888-6340-46ac-b488-d31aa4058e9c/entry/understanding_linux_open_system_call?lang=en) | O_CREAT & O_TRUNC
 Ex 3 | Highlander
 Ex 4 | Highlander II
 Ex 5 | speed-O-meter
