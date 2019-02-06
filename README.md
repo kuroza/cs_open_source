@@ -1,4 +1,4 @@
-# Computer Science Online Resources by Harith
+# Computer Science Online Resources
 
 All links are provided for free online. It will help your studies. Inshaa Allah.
 
