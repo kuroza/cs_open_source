@@ -72,8 +72,8 @@ Courses | School | Notes
 
 Courses | School | Notes
 :-- | :--: | :--:
-[Operating Systems - Neso](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O) | Neso Academy | Based on Silberschatz book (similar syllabus as UBD)
-[Operating Systems - ops-class.org](https://www.ops-class.org/slides/) | University at Buffalo | Based on Tannenbaum book
+[Operating Systems](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O) | Neso Academy | Based on Silberschatz book (similar syllabus as UBD)
+[Operating Systems](https://www.ops-class.org/slides/) | University at Buffalo | Based on Tannenbaum book
 [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) | - | A website book version
 [Shell Scripting](https://www.youtube.com/playlist?list=PLBf0hzazHTGMJzHon4YXGscxUvsFpxrZT) | HackerSploit | 
 
