@@ -1,6 +1,6 @@
 # Computer Science Online Resources
 
-All links are provided for free online. It will help your studies. Inshaa Allah.
+All links are provided for free online. I hope you make them to use for your Computer Science learning journey.
 
 ## SS-1203 Programming Fundamentals
 
