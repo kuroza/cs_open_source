@@ -66,7 +66,7 @@ Courses | School | Notes
 Courses | School | Notes
 :-- | :--: | :--:
 [Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z) | Stanford University | Same syllabus as UBD
-[The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking/) | Google | To get a better understanding at Computer Networking
+[The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking/) | Google | To get a better understanding of Computer Networking
 
 ## SS-2206 Operating Systems
 
