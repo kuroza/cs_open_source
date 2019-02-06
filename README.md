@@ -117,7 +117,7 @@ Courses | School | Notes
 [Introduction to Cyber Attacks](https://www.coursera.org/learn/intro-cyber-attacks/) | New York University | 
 [Penetration Testing & Ethical Hacking](https://www.cybrary.it/course/ethical-hacking/) | Cybrary | 
 [Web Application Penetration Testing](https://www.youtube.com/playlist?list=PLWPirh4EWFpESKWJmrgQwmsnTrL_K93Wi) | Tutorials Point | 
-[Android Penetration Testing - Tutorials Point](https://www.youtube.com/playlist?list=PLWPirh4EWFpEK7BXbMvKDYuHhA4AiYLDb) | Tutorials Point | 
+[Android Penetration Testing](https://www.youtube.com/playlist?list=PLWPirh4EWFpEK7BXbMvKDYuHhA4AiYLDb) | Tutorials Point | 
 
 ## Cryptography
 
