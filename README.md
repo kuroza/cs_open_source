@@ -7,9 +7,18 @@ All links are provided for free online. It will help your studies. Inshaa Allah.
 Courses | School | Notes
 :-- | :--: | :--:
 [CS50's Introduction to Programming](https://www.youtube.com/playlist?list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH) | Harvard University | Lectures taught in C language
+[Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming) | Duke University | 
+[]() |  | Object Oriented Programming
+[]() |  | Arrays and Collections
+[]() |  | File I/O
+[]() |  | Searching and Sorting
+
+### Programming Languages
+
+Courses | School | Notes
+:-- | :--: | :--:
 [Getting Started with Python](https://www.coursera.org/learn/python?specialization=python) | University of Michigan | 
 [Python Tutorials](https://www.youtube.com/playlist?list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg) | CS Dojo | 
-[Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming) | Duke University | 
 
 ### Advanced Programming
 
