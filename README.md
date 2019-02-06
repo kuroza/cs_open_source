@@ -15,8 +15,8 @@ Courses | School | Notes
 
 Courses | School | Notes
 :-- | :--: | :--:
-[Getting Started with Go](https://www.coursera.org/learn/golang-getting-started) | University of California | 
-[Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers) | JetBrains | 
+[Getting Started with Go](https://www.coursera.org/learn/golang-getting-started) | University of California | Study before taking SS-2202
+[Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers) | JetBrains | Useful for developing Android apps
 
 ## SS-1204 Computer Architecture
 
@@ -31,8 +31,8 @@ Courses | School | Notes
 [HTML & CSS](https://www.youtube.com/playlist?list=PL0eyrZgxdwhwNC5ppZo_dYGVjerQY3xYU) | Mmtuts | 
 [JavaScript](https://www.youtube.com/playlist?list=PL0eyrZgxdwhxNGMWROnaY35NLyEjTqcgB) | Mmtuts | 
 [PHP](https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-) | Mmtuts | 
-[SQL](https://www.youtube.com/watch?v=LxDetsPQAPQ&index=10&t=2372s&list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH) | Harvard University | 
-[Gestalt Principles](http://graphicdesign.spokanefalls.edu/tutorials/process/gestaltprinciples/gestaltprinc.htm) | - | 
+[SQL](https://www.youtube.com/watch?v=LxDetsPQAPQ&index=10&t=2372s&list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH) | Harvard University | Very brief explanation but enough to understand SQL for SS-2201
+[Gestalt Principles](http://graphicdesign.spokanefalls.edu/tutorials/process/gestaltprinciples/gestaltprinc.htm) | - | In the exam
 
 ### Advanced Internet Programming and Development
 
@@ -56,8 +56,8 @@ Courses | School | Notes
 
 Courses | School | Notes
 :-- | :--: | :--:
-[Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/course/) | Stanford University | Mostly relational databases
-[Database Management Systems](https://www.youtube.com/playlist?list=PLWPirh4EWFpHMw9bRo47tn4aknBUvuXNU) | Tutorials Point | 
+[Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/course/) | Stanford University | Taught mostly relational databases
+[Database Management Systems](https://www.youtube.com/playlist?list=PLWPirh4EWFpHMw9bRo47tn4aknBUvuXNU) | Tutorials Point | ER and Relational model
 [EER Diagram](https://www.youtube.com/watch?v=TWcsLkq0snI&t=0s&list=PLW1OMpQZxu7yzSiLA3HQRlyOYE99PsW2L&index=5) | YouTube | A brief video explaining of Enhanced Entity Relationship diagram
 [Databases](https://www.youtube.com/channel/UCjkGzGfgvX_Zd8kxs4ldhFw/videos) | Penn State University | 
 
@@ -65,16 +65,16 @@ Courses | School | Notes
 
 Courses | School | Notes
 :-- | :--: | :--:
-[Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z) | Stanford University | 
-[The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking/) | Google | 
+[Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z) | Stanford University | Same syllabus as UBD
+[The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking/) | Google | To get a better understanding at Computer Networking
 
 ## SS-2206 Operating Systems
 
 Courses | School | Notes
 :-- | :--: | :--:
-[Operating Systems](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O) | Neso Academy | Based on Silberschatz book (similar syllabus as UBD)
+[Operating Systems](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O) | Neso Academy | Based on Silberschatz book (same syllabus as UBD)
 [Operating Systems](https://www.ops-class.org/slides/) | University at Buffalo | Based on Tannenbaum book
-[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) | - | A website book version
+[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) | - | Website book version
 [Shell Scripting](https://www.youtube.com/playlist?list=PLBf0hzazHTGMJzHon4YXGscxUvsFpxrZT) | HackerSploit | 
 
 ### Lab03 assignment:
@@ -114,8 +114,8 @@ Courses | School | Notes
 
 Courses | School | Notes
 :-- | :--: | :--:
-[Introduction to Cyber Attacks](https://www.coursera.org/learn/intro-cyber-attacks/) | New York University | 
-[Penetration Testing & Ethical Hacking](https://www.cybrary.it/course/ethical-hacking/) | Cybrary | 
+[Introduction to Cyber Attacks](https://www.coursera.org/learn/intro-cyber-attacks/) | New York University | Required to better understand cyber security
+[Penetration Testing & Ethical Hacking](https://www.cybrary.it/course/ethical-hacking/) | Cybrary | Hands-on pen testing
 [Web Application Penetration Testing](https://www.youtube.com/playlist?list=PLWPirh4EWFpESKWJmrgQwmsnTrL_K93Wi) | Tutorials Point | 
 [Android Penetration Testing](https://www.youtube.com/playlist?list=PLWPirh4EWFpEK7BXbMvKDYuHhA4AiYLDb) | Tutorials Point | 
 
