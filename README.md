@@ -63,7 +63,7 @@ Courses | School | Details
 
 Courses | School | Details
 :-- | :--: | :--:
-[Data Structures](https://www.coursera.org/learn/data-structures/) | University of San Diego | UBD students are required to learn [GO language](https://www.coursera.org/learn/golang-getting-started) first
+[Data Structures](https://www.coursera.org/learn/data-structures/) | University of San Diego | UBD students are required to learn [Go language](https://www.coursera.org/learn/golang-getting-started) first
 [Algorithms I](https://www.coursera.org/learn/algorithms-part1/) | Princeton University | 
 [Algorithms II](https://www.coursera.org/learn/algorithms-part2) | Princeton University | 
 
@@ -150,7 +150,7 @@ Courses | School | Details
 
 ## Blockchain
 
-Courses | School | Notes
+Courses | School | Details
 :-- | :--: | :--:
 [Blockchain Basics](https://www.coursera.org/learn/blockchain-basics/) | University at Buffalo | 
 [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency/) | Princeton University | 
