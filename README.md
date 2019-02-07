@@ -105,7 +105,7 @@ Exercise | Details
 :-- | :--:
 [Ex 1: open(), read() & write()](https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/) | The codes may be incomplete, so try to solve it yourselves, it's pretty easy
 [Ex 2: O_CREAT & O_TRUNC](https://www.ibm.com/developerworks/community/blogs/58e72888-6340-46ac-b488-d31aa4058e9c/entry/understanding_linux_open_system_call?lang=en) | Use open(), read() and write() to copy text files
-[Ex 3(a)](https://www.geeksforgeeks.org/signals-c-language/), [Ex 3(b)](https://www.thegeekstuff.com/2012/03/catch-signals-sample-c-code/) | SIGINT
+[Ex 3(a)](https://www.tutorialspoint.com/c_standard_library/c_function_signal.htm), [Ex 3(b)](https://www.thegeekstuff.com/2012/03/catch-signals-sample-c-code/) | SIGINT
 Ex 4 | Highlander II
 Ex 5 | speed-O-meter
 Ex 6 | Shaper
