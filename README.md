@@ -11,7 +11,7 @@ Courses | School | Details
 [Java: Arrays, Lists, and Structured Data](https://www.coursera.org/learn/java-programming-arrays-lists-data) | Duke University | Arrays and collections
 [Java: Object Oriented Programming](https://www.coursera.org/learn/object-oriented-java) | Duke University | Object oriented programming
 [Java: Files and I/O](https://www.tutorialspoint.com/java/java_files_io.htm) | Tutorials Point | File I/O
-[Java: Different ways reading text file](https://www.geeksforgeeks.org/different-ways-reading-text-file-java/) | Geeks for Geeks | Buffered reader, scanner and iterator
+[Java: Different Ways Reading Text File](https://www.geeksforgeeks.org/different-ways-reading-text-file-java/) | Geeks for Geeks | Buffered reader, scanner and iterator
 
 ### Programming Languages
 
@@ -26,6 +26,12 @@ Courses | School | Details
 :-- | :--: | :--:
 [Getting Started with Go](https://www.coursera.org/learn/golang-getting-started) | University of California | Recommended to study before taking SS-2202 Algorithms and Data Structures
 [Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers) | JetBrains | Useful for developing Android apps
+
+## SS-1202 Computer Systems and Information Technology
+
+Courses | School | Details
+:-- | :--: | :--:
+[CS50's Understanding Technology](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p) | Harvard University | Interesting and informative lectures to help you understand better
 
 ## SS-1204 Computer Architecture
 
