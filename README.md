@@ -24,7 +24,7 @@ Courses | School | Details
 
 Courses | School | Details
 :-- | :--: | :--:
-[Getting Started with Go](https://www.coursera.org/learn/golang-getting-started) | University of California | Study before taking SS-2202
+[Getting Started with Go](https://www.coursera.org/learn/golang-getting-started) | University of California | Recommended to study before taking SS-2202 Algorithms and Data Structures
 [Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers) | JetBrains | Useful for developing Android apps
 
 ## SS-1204 Computer Architecture
