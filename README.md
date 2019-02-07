@@ -7,10 +7,11 @@ All links are provided for free online. I hope you make them to use for your Com
 Courses | School | Details
 :-- | :--: | :--:
 [CS50's Introduction to Programming](https://www.youtube.com/playlist?list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH) | Harvard University | C language, useful for SS-2206 Operating Systems
-[Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming) | Duke University | Basic syntax and semantics
-[Java Programming: Arrays, Lists, and Structured Data](https://www.coursera.org/learn/java-programming-arrays-lists-data) | Duke University | Arrays and collections
-[Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java) | Duke University | Object oriented programming
+[Java: Solving Problems with Software](https://www.coursera.org/learn/java-programming) | Duke University | Basic syntax and semantics
+[Java: Arrays, Lists, and Structured Data](https://www.coursera.org/learn/java-programming-arrays-lists-data) | Duke University | Arrays and collections
+[Java: Object Oriented Programming](https://www.coursera.org/learn/object-oriented-java) | Duke University | Object oriented programming
 [Java Files and I/O](https://www.tutorialspoint.com/java/java_files_io.htm) | Tutorials Point | File I/O
+[Java: Different ways reading text file](https://www.geeksforgeeks.org/different-ways-reading-text-file-java/) | Geeks for Geeks | BufferedReader, Scanner, Iterator
 
 ### Programming Languages
 
