@@ -62,7 +62,7 @@ Courses | School | Details
 
 Courses | School | Details
 :-- | :--: | :--:
-[Data Structures](https://www.coursera.org/learn/data-structures/) | University of San Diego | UBD students are required to learn [Go language](https://www.coursera.org/learn/golang-getting-started) first
+[Data Structures](https://www.coursera.org/learn/data-structures/) | University of San Diego | Optional: UBD students are recommended to learn [Go language](https://www.coursera.org/learn/golang-getting-started) first
 [Algorithms I](https://www.coursera.org/learn/algorithms-part1/) | Princeton University | 
 [Algorithms II](https://www.coursera.org/learn/algorithms-part2) | Princeton University | 
 
