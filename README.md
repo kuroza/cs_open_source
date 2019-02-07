@@ -2,7 +2,7 @@
 
 All links are provided for free online. I hope you make them to use for your Computer Science learning journey.
 
-## SS-1203 Programming Fundamentals
+## SS-1201/SS-1203 Programming Fundamentals
 
 Courses | School | Details
 :-- | :--: | :--:
