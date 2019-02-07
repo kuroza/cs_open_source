@@ -71,8 +71,8 @@ Courses | School | Details
 
 Courses | School | Details
 :-- | :--: | :--:
-[Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/course/) | Stanford University | Taught mostly relational databases
-[Database Management Systems](https://www.youtube.com/playlist?list=PLWPirh4EWFpHMw9bRo47tn4aknBUvuXNU) | Tutorials Point | ER and Relational model
+[Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/course/) | Stanford University | Relational databases
+[Database Management Systems](https://www.youtube.com/playlist?list=PLWPirh4EWFpHMw9bRo47tn4aknBUvuXNU) | Tutorials Point | ER and relational data model
 [EER Diagram](https://www.youtube.com/watch?v=TWcsLkq0snI&t=0s&list=PLW1OMpQZxu7yzSiLA3HQRlyOYE99PsW2L&index=5) | YouTube | A brief video explaining of Enhanced Entity Relationship diagram
 [Database Management Systems](https://www.youtube.com/channel/UCjkGzGfgvX_Zd8kxs4ldhFw/videos) | Penn State University | 
 [Architecture of a Database System](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf) | University of California, Berkeley | Provides a high-level view of how relational database management systems (RDBMS) work
@@ -81,7 +81,7 @@ Courses | School | Details
 
 Courses | School | Details
 :-- | :--: | :--:
-[Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z) | Stanford University | Same syllabus as UBD
+[Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z) | Stanford University | Covers all computer networking topics and practical explanation using Wireshark & netcat
 [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking/) | Google | To get a better understanding of Computer Networking
 
 ## SS-2206 Operating Systems
