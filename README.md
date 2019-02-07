@@ -17,8 +17,8 @@ Courses | School | Details
 
 Courses | School | Details
 :-- | :--: | :--:
-[Getting Started with Python](https://www.coursera.org/learn/python?specialization=python) | University of Michigan | Easy to follow lectures
-[Python Tutorials](https://www.youtube.com/playlist?list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg) | CS Dojo | Easy to follow lectures
+[Getting Started with Python](https://www.coursera.org/learn/python?specialization=python) | University of Michigan | Python language
+[Python Tutorials](https://www.youtube.com/playlist?list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg) | CS Dojo | Pyhton language
 
 ### Advanced Programming
 
