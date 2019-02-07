@@ -6,8 +6,8 @@ All links are provided for free online. I hope you make them to use for your Com
 
 Courses | School | Details
 :-- | :--: | :--:
-[CS50's Introduction to Programming](https://www.youtube.com/playlist?list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH) | Harvard University | Lectures taught in C language
-[Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming) | Duke University | Basic syntax
+[CS50's Introduction to Programming](https://www.youtube.com/playlist?list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH) | Harvard University | C language, useful for SS-2206 Operating Systems
+[Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming) | Duke University | Basic syntax and semantics
 [Java Programming: Arrays, Lists, and Structured Data](https://www.coursera.org/learn/java-programming-arrays-lists-data) | Duke University | Arrays and collections
 [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java) | Duke University | Object oriented programming
 [Java Files and I/O](https://www.tutorialspoint.com/java/java_files_io.htm) | Tutorials Point | File I/O
@@ -16,8 +16,8 @@ Courses | School | Details
 
 Courses | School | Details
 :-- | :--: | :--:
-[Getting Started with Python](https://www.coursera.org/learn/python?specialization=python) | University of Michigan | 
-[Python Tutorials](https://www.youtube.com/playlist?list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg) | CS Dojo | 
+[Getting Started with Python](https://www.coursera.org/learn/python?specialization=python) | University of Michigan | Easy to follow lectures
+[Python Tutorials](https://www.youtube.com/playlist?list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg) | CS Dojo | Easy to follow lectures
 
 ### Advanced Programming
 
@@ -30,15 +30,15 @@ Courses | School | Details
 
 Courses | School | Details
 :-- | :--: | :--:
-[Digital Electronics](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm) | Neso Academy | 
+[Digital Electronics](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm) | Neso Academy | Useful for engineering students
 
 ## SS-2201 Internet Programming and Development
 
 Courses | School | Details
 :-- | :--: | :--:
-[HTML & CSS](https://www.youtube.com/playlist?list=PL0eyrZgxdwhwNC5ppZo_dYGVjerQY3xYU) | Mmtuts | 
-[JavaScript](https://www.youtube.com/playlist?list=PL0eyrZgxdwhxNGMWROnaY35NLyEjTqcgB) | Mmtuts | 
-[PHP](https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-) | Mmtuts | 
+[HTML & CSS](https://www.youtube.com/playlist?list=PL0eyrZgxdwhwNC5ppZo_dYGVjerQY3xYU) | Mmtuts | In-depth lectures and including creating website using HTML and CSS
+[JavaScript](https://www.youtube.com/playlist?list=PL0eyrZgxdwhxNGMWROnaY35NLyEjTqcgB) | Mmtuts | In-depth lectures
+[PHP](https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-) | Mmtuts | In-depth lectures and including creating backend user login
 [SQL](https://www.youtube.com/watch?v=LxDetsPQAPQ&index=10&t=2372s&list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH) | Harvard University | Very brief explanation but enough to understand SQL for SS-2201
 [Gestalt Principles](http://graphicdesign.spokanefalls.edu/tutorials/process/gestaltprinciples/gestaltprinc.htm) | - | In the exam
 
@@ -56,7 +56,7 @@ Courses | School | Details
 
 Courses | School | Details
 :-- | :--: | :--:
-[Data Structures](https://www.coursera.org/learn/data-structures/) | University of San Diego | 
+[Data Structures](https://www.coursera.org/learn/data-structures/) | University of San Diego | UBD students required to learn GO language first
 [Algorithms I](https://www.coursera.org/learn/algorithms-part1/) | Princeton University | 
 [Algorithms II](https://www.coursera.org/learn/algorithms-part2) | Princeton University | 
 
@@ -86,7 +86,7 @@ Courses | School | Details
 [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) | University of Wisconsin | Website book version
 [Shell Scripting](https://www.youtube.com/playlist?list=PLBf0hzazHTGMJzHon4YXGscxUvsFpxrZT) | HackerSploit | 
 
-### Lab03 assignment:
+### Operating Systems Lab03 Assignment:
 Exercise | Details
 :-- | :--:
 [Ex 1](https://linux.die.net/man/2/stat) | stat()
@@ -94,11 +94,11 @@ Exercise | Details
 [Ex 3](http://codepad.org/mocgJvtX) | opendir() + readdir() + snprintf()
 [Ex 5](https://codeforwin.org/2018/03/c-program-to-list-all-files-in-a-directory-recursively.html#program-recursive) | getopt() + recursion
 
-### Lab04 assignment:
+### Operating Systems Lab04 Assignment:
 Exercise | Details
 :-- | :--:
-[Ex 1](https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/) | open(), read() & write()
-[Ex 2](https://www.ibm.com/developerworks/community/blogs/58e72888-6340-46ac-b488-d31aa4058e9c/entry/understanding_linux_open_system_call?lang=en) | O_CREAT & O_TRUNC
+[Ex 1: open(), read() & write()](https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/) | The codes may be incomplete, so try to solve it yourselves, it's pretty easy
+[Ex 2: O_CREAT & O_TRUNC](https://www.ibm.com/developerworks/community/blogs/58e72888-6340-46ac-b488-d31aa4058e9c/entry/understanding_linux_open_system_call?lang=en) | Use open(), read() and write() to copy text files
 Ex 3 | Highlander
 Ex 4 | Highlander II
 Ex 5 | speed-O-meter
