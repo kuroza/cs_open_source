@@ -17,14 +17,13 @@ Courses | School | Details
 
 Courses | School | Details
 :-- | :--: | :--:
+[Getting Started with Go](https://www.coursera.org/learn/golang-getting-started) | University of California | Recommended to study before taking SS-2202 Algorithms and Data Structures
 [Getting Started with Python](https://www.coursera.org/learn/python?specialization=python) | University of Michigan | Python language
-[Python Tutorials](https://www.youtube.com/playlist?list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg) | CS Dojo | Pyhton language
 
 ### Advanced Programming
 
 Courses | School | Details
 :-- | :--: | :--:
-[Getting Started with Go](https://www.coursera.org/learn/golang-getting-started) | University of California | Recommended to study before taking SS-2202 Algorithms and Data Structures
 [Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers) | JetBrains | Useful for developing Android apps
 
 ## SS-1202 Computer Systems and Information Technology
