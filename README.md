@@ -8,8 +8,8 @@ Courses | School | Details
 :-- | :--: | :--:
 [CS50's Introduction to Programming](https://www.youtube.com/playlist?list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH) | Harvard University | C language, useful for SS-2206 Operating Systems
 [Java: Solving Problems with Software](https://www.coursera.org/learn/java-programming) | Duke University | Basic syntax and semantics
-[Java: Arrays, Lists, and Structured Data](https://www.coursera.org/learn/java-programming-arrays-lists-data) | Duke University | Arrays and collections
-[Java: Object Oriented Programming](https://www.coursera.org/learn/object-oriented-java) | Duke University | Object oriented programming
+[Java: Arrays, Lists, and Structured Data](https://www.coursera.org/learn/java-programming-arrays-lists-data) | Duke University | Cryptography using arrays, lists and collections
+[Java: Object Oriented Programming](https://www.coursera.org/learn/object-oriented-java) | Duke University | Object oriented programming & inheritance
 [Java: Files and I/O](https://www.tutorialspoint.com/java/java_files_io.htm) | Tutorials Point | File I/O
 [Java: Different Ways Reading Text File](https://www.geeksforgeeks.org/different-ways-reading-text-file-java/) | Geeks for Geeks | Buffered reader, scanner and iterator
 
