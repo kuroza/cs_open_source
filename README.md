@@ -70,12 +70,12 @@ Courses | School | Details
 
 Courses | School | Details
 :-- | :--: | :--:
+[Database Management Systems](https://www.youtube.com/playlist?list=PLWPirh4EWFpHMw9bRo47tn4aknBUvuXNU) | Tutorials Point | ER and relational data model
+[EER Diagram](https://www.youtube.com/watch?v=TWcsLkq0snI&t=0s&list=PLW1OMpQZxu7yzSiLA3HQRlyOYE99PsW2L&index=5) | YouTube | A brief video explaining of Enhanced Entity Relationship diagram
 [Introduction and Relational Databases](https://lagunita.stanford.edu/courses/DB/RDB/SelfPaced/about) | Stanford University | DB1 - Introduction and Relational Databases
 [Relational Algebra](https://lagunita.stanford.edu/courses/DB/RA/SelfPaced/about) | Stanford University | DB4 - Relational Algebra
 [SQL](https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/about) | Stanford University | DB5 - SQL
 [Relational Design Theory ](https://lagunita.stanford.edu/courses/DB/RD/SelfPaced/about) | Stanford University | DB8 - Relational Design Theory 
-[Database Management Systems](https://www.youtube.com/playlist?list=PLWPirh4EWFpHMw9bRo47tn4aknBUvuXNU) | Tutorials Point | ER and relational data model
-[EER Diagram](https://www.youtube.com/watch?v=TWcsLkq0snI&t=0s&list=PLW1OMpQZxu7yzSiLA3HQRlyOYE99PsW2L&index=5) | YouTube | A brief video explaining of Enhanced Entity Relationship diagram
 [Database Management Systems](https://www.youtube.com/channel/UCjkGzGfgvX_Zd8kxs4ldhFw/videos) | Penn State University | 
 [Architecture of a Database System](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf) | University of California, Berkeley | Provides a high-level view of how relational database management systems (RDBMS) work
 
