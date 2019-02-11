@@ -83,7 +83,7 @@ Courses | School | Details
 
 Courses | School | Details
 :-- | :--: | :--:
-[Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z) | Stanford University | Covers all computer networking topics and practical explanation using Wireshark & netcat
+[Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z) | Stanford University | Covers all computer networking topics and practical explanation including Wireshark & netcat
 [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking/) | Google | To get a better understanding of Computer Networking
 
 ## SS-2206 Operating Systems
