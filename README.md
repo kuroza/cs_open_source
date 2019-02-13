@@ -117,6 +117,7 @@ Ex 6 | Shaper
 
 Courses | School | Details
 :-- | :--: | :--:
+[Discrete Math 1](https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz) | TheTrevTutor | 
 [Discrete Mathematics](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS) | Trefor Bazett | 
 [Discrete Maths Quick Guide](https://www.tutorialspoint.com/discrete_mathematics/discrete_mathematics_quick_guide.htm) | Tutorials Point | A website guide
 [Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof/) | University of San Diego | 
