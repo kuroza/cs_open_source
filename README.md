@@ -45,7 +45,7 @@ Courses | School | Details
 [HTML & CSS](https://www.youtube.com/playlist?list=PL0eyrZgxdwhwNC5ppZo_dYGVjerQY3xYU) | Mmtuts | In-depth lectures and including creating website using HTML and CSS
 [JavaScript](https://www.youtube.com/playlist?list=PL0eyrZgxdwhxNGMWROnaY35NLyEjTqcgB) | Mmtuts | In-depth lectures
 [PHP](https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-) | Mmtuts | In-depth lectures and including creating backend user login
-[SQL](https://www.youtube.com/watch?v=LxDetsPQAPQ&index=10&t=2372s&list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH) | Harvard University | Very brief explanation but enough to understand SQL for SS-2201
+[SQL](https://www.youtube.com/watch?v=LxDetsPQAPQ&index=10&t=2372s&list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH) | Harvard University | Explained in Python code instead of PHP, but the concepts are enough for you to understand SQL for SS-2201
 [Gestalt Principles](http://graphicdesign.spokanefalls.edu/tutorials/process/gestaltprinciples/gestaltprinc.htm) | - | In the exam
 
 ### Advanced Internet Programming and Development
