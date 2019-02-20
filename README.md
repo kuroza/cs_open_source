@@ -113,6 +113,11 @@ Exercise | Details
 Ex 5 | speed-O-meter
 Ex 6 | Shaper
 
+### Operating Systems Lab05 Assignment:
+Exercise | Details
+:-- | :--:
+[Ex 1]() | Dispatcher
+
 ## SM-1301 Discrete Mathematics
 
 Courses | School | Details
