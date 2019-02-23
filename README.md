@@ -117,7 +117,7 @@ Ex 6 | Shaper
 ### Operating Systems Lab06 Assignment:
 Exercise | Details
 :-- | :--:
-Ex 1(a): pipe() | Dispatcher
+[Ex 1(a): pipe()](http://man7.org/linux/man-pages/man2/pipe.2.html), [Ex 1(b): 2-way pipes](https://www.tutorialspoint.com/inter_process_communication/inter_process_communication_pipes.htm), [Ex 1(c): exec()](http://man7.org/linux/man-pages/man3/exec.3.html), [Ex 1(d): scanf()](http://man7.org/linux/man-pages/man3/scanf.3.html) | Dispatcher
 
 ## SM-1301 Discrete Mathematics
 
