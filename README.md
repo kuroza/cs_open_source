@@ -75,6 +75,7 @@ Courses | School | Details
 [Introduction and Relational Databases](https://lagunita.stanford.edu/courses/DB/RDB/SelfPaced/about) | Stanford University | DB1 - Introduction and Relational Databases
 [Relational Algebra](https://lagunita.stanford.edu/courses/DB/RA/SelfPaced/about) | Stanford University | DB4 - Relational Algebra
 [SQL](https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/about) | Stanford University | DB5 - SQL
+[MariaDB](https://www.tutorialspoint.com/mariadb/index.htm) | Tutorials Point | MariaDB tutorials
 [Relational Design Theory ](https://lagunita.stanford.edu/courses/DB/RD/SelfPaced/about) | Stanford University | DB8 - Relational Design Theory 
 [Database Management Systems](https://www.youtube.com/channel/UCjkGzGfgvX_Zd8kxs4ldhFw/videos) | Penn State University | 
 [Architecture of a Database System](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf) | University of California, Berkeley | Provides a high-level view of how relational database management systems (RDBMS) work
@@ -116,7 +117,7 @@ Ex 6 | Shaper
 ### Operating Systems Lab06 Assignment:
 Exercise | Details
 :-- | :--:
-[Ex 1(a): pipe()]() | Dispatcher
+Ex 1(a): pipe() | Dispatcher
 
 ## SM-1301 Discrete Mathematics
 
