@@ -92,6 +92,7 @@ Courses | School | Details
 Courses | School | Details
 :-- | :--: | :--:
 [Operating Systems](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O) | Neso Academy | Chapter 1 to chapter 3
+[Operating Systems](https://www.youtube.com/playlist?list=PLWPirh4EWFpGkHH9JTKH9KsnfAA471Fhy) | Tutorials Point | Chapter 5 to chapter 8
 [Operating Systems](https://www.ops-class.org/slides/) | University at Buffalo | Chapter 3 to chapter 8
 [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) | University of Wisconsin | Website book version
 [Shell Scripting](https://www.youtube.com/playlist?list=PLBf0hzazHTGMJzHon4YXGscxUvsFpxrZT) | HackerSploit | 
