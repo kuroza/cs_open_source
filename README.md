@@ -7,8 +7,10 @@ All links are provided for free online. I hope you make them to use for your Com
 Courses | School | Details
 :-- | :--: | :--:
 [CS50's Introduction to Programming](https://www.youtube.com/playlist?list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH) | Harvard University | C language, useful for SS-2206 Operating Systems
-[Getting Started with Go](https://www.coursera.org/learn/golang-getting-started) | University of California | Recommended to study before taking SS-2202 Algorithms and Data Structures
-[Getting Started with Python](https://www.coursera.org/learn/python?specialization=python) | University of Michigan | Python language
+[C Programming](https://www.youtube.com/watch?v=KJgsSFOSQv0&t=8310s) | Giraffe Academy | Useful for SS-2206 Operating Systems
+[C# Programming](https://www.youtube.com/watch?v=GhQdlIFylQ8&t=1s) | Giraffe Academy | Useful for building .NET web applications
+[Go Programming](https://www.youtube.com/watch?v=YS4e4q9oBaU&t=9662s) | freeCodeCamp | Recommended to study before taking SS-2202 Algorithms and Data Structures
+[Python Programming](https://www.youtube.com/watch?v=rfscVS0vtbw&t=4115s) | Giraffe Academy | Python language
 
 ### Java Programming
 
@@ -62,9 +64,11 @@ Courses | School | Details
 
 Courses | School | Details
 :-- | :--: | :--:
-[Data Structures](https://www.coursera.org/learn/data-structures/) | University of San Diego | Optional: UBD students are recommended to learn [Go language](https://www.coursera.org/learn/golang-getting-started) first
-[Algorithms I](https://www.coursera.org/learn/algorithms-part1/) | Princeton University | 
-[Algorithms II](https://www.coursera.org/learn/algorithms-part2) | Princeton University | 
+[Searching and Sorting Algorithms](https://www.youtube.com/playlist?list=PLdo5W4Nhv31bEiyP4tclZMc5mP_X7OD7k) | | Optional: UBD students are recommended to learn [Go language](https://www.youtube.com/watch?v=SqrbIlUwR0U) first
+[Linked List](https://www.youtube.com/playlist?list=PLdo5W4Nhv31YIeatFDBuAvPlNwaKejIKC) | 
+[Stack](https://www.youtube.com/playlist?list=PLdo5W4Nhv31YbvQUNN6I529ce8ChcnWs6) | 
+[Queue](https://www.youtube.com/playlist?list=PLdo5W4Nhv31aqIqmkF5NTVWJJoCyTuRgR) | 
+[Tree](https://www.youtube.com/playlist?list=PLdo5W4Nhv31a36XWIKtSBCeR2MEFOGsLG) | 
 
 ## SS-2203 Database Design
 
